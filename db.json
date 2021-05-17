@@ -1,26 +1,34 @@
+// 20210517123641
+// https://my-json-server.typicode.com/typicode/demo/db
+
 {
-  "size": 15,
-  "terms": [
+  "posts": [
     {
-      "englishNumber": "010001",
-      "classNumber": "1",
-      "englishText": "Combusting preparations [chemical additives to motor fuel]",
-      "latvianText": "Combusting preparations [chemical additives to motor fuel]",
-      "version": 17
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "englishNumber": "010002",
-      "classNumber": "1",
-      "englishText": "Adhesives for industrial purposes",
-      "latvianText": "Adhesives for industrial purposes",
-      "version": 17
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "englishNumber": "010022",
-      "classNumber": "1",
-      "englishText": "Adhesive preparations for surgical bandages",
-      "latvianText": "Adhesive preparations for surgical bandages",
-      "version": 17
+      "id": 3,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
