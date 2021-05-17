@@ -1,0 +1,110 @@
+{
+  "size": 15,
+  "terms": [
+    {
+      "englishNumber": "010001",
+      "classNumber": "1",
+      "englishText": "Combusting preparations [chemical additives to motor fuel]",
+      "latvianText": "Ķīmiskās piedevas dzinēja degvielas sadegšanas procesa uzlabošanai",
+      "version": 17
+    },
+    {
+      "englishNumber": "010002",
+      "classNumber": "1",
+      "englishText": "Adhesives for industrial purposes",
+      "latvianText": "Līmvielas rūpnieciskiem nolūkiem",
+      "version": 17
+    },
+    {
+      "englishNumber": "010022",
+      "classNumber": "1",
+      "englishText": "Adhesive preparations for surgical bandages",
+      "latvianText": "Līmvielas ķirurģiskiem pārsējiem",
+      "version": 17
+    },
+    {
+      "englishNumber": "010023",
+      "classNumber": "1",
+      "englishText": "Water-softening preparations",
+      "latvianText": "Vielas ūdens mīkstināšanai",
+      "version": 17
+    },
+    {
+      "englishNumber": "010030",
+      "classNumber": "1",
+      "englishText": "Agglutinants for concrete",
+      "latvianText": "Līmvielas betonam",
+      "version": 17
+    },
+    {
+      "englishNumber": "010044",
+      "classNumber": "1",
+      "englishText": "Chemical substances for preserving foodstuffs",
+      "latvianText": "Ķīmiskās vielas pārtikas produktu konservēšanai",
+      "version": 17
+    },
+    {
+      "englishNumber": "010045",
+      "classNumber": "1",
+      "englishText": "Chemical preparations for facilitating the alloying of metals",
+      "latvianText": "Ķīmiskās vielas, kas atvieglo metālu sakausēšanu",
+      "version": 17
+    },
+    {
+      "englishNumber": "010056",
+      "classNumber": "1",
+      "englishText": "Starch-liquifying chemicals [ungluing agents]",
+      "latvianText": "Cietes šķīdinātāji (ķīmiskās vielas atlīmēšanai)",
+      "version": 17
+    },
+    {
+      "englishNumber": "010069",
+      "classNumber": "1",
+      "englishText": "Animal albumen [raw material]",
+      "latvianText": "Dzīvnieku olbaltumvielas (izejvielas)",
+      "version": 17
+    },
+    {
+      "englishNumber": "010087",
+      "classNumber": "1",
+      "englishText": "Fuel for nuclear reactors",
+      "latvianText": "Atomreaktoru degvielas",
+      "version": 17
+    },
+    {
+      "englishNumber": "010105",
+      "classNumber": "1",
+      "englishText": "Substances for preventing runs in stockings",
+      "latvianText": "Ķīmiskās vielas zeķu valdziņu iršanas novēršanai",
+      "version": 17
+    },
+    {
+      "englishNumber": "010106",
+      "classNumber": "1",
+      "englishText": "Bases [chemical preparations]",
+      "latvianText": "Bāzes (ķīmiskās vielas)",
+      "version": 17
+    },
+    {
+      "englishNumber": "010107",
+      "classNumber": "1",
+      "englishText": "Chemicals, except pigments, for the manufacture of enamel",
+      "latvianText": "Ķīmiskās vielas emalju pagatavošanai, izņemot krāsu pigmentus",
+      "version": 17
+    },
+    {
+      "englishNumber": "010121",
+      "classNumber": "1",
+      "englishText": "Beer-clarifying and preserving agents",
+      "latvianText": "Alus dzidrināšanas vielas un konservanti",
+      "version": 17
+    },
+    {
+      "englishNumber": "010170",
+      "classNumber": "1",
+      "englishText": "Cement for footwear",
+      "latvianText": "Līmvielas apaviem",
+      "version": 17
+    }
+  ]
+}
